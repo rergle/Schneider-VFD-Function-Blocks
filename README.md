@@ -14,7 +14,8 @@ ATV Series VFDs to Siemens S7-1200 Function Blocks
             
    
 ## Function Blocks Overview — *ATVxxx-ProfiNet***
-- put pic here>
+<img width="405" height="531" alt="block3" src="https://github.com/user-attachments/assets/a6b7ec2d-8990-48d3-bb23-db9d154cc26a" />
+
          
 - ***Inputs:***        
 - `Status_Word` : WORD — VFD status word (from drive)        
@@ -72,9 +73,8 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
  
          
 ### ATV630 Setup with SoMove (Video)
-
-        - video here
-
+[![Watch the video](https://img.youtube.com/vi/GX7OG_sJxCU/0.jpg)](https://youtu.be/GX7OG_sJxCU)
+      
        
 **TIA Portal Setup**
 
@@ -143,13 +143,11 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
 
         
 ### ATV320 Setup In TIA Portal (Video)
-
-        - [https://youtu.be/ONBzspy6DKU](https://youtu.be/ONBzspy6DKU)
+[![Watch the video](https://img.youtube.com/vi/ONBzspy6DKU/0.jpg)](https://youtu.be/ONBzspy6DKU)
 
   
 ### ATV630 Setup In TIA Portal (Video)
-
-       - [https://youtu.be/09wC5qw4LRo](https://youtu.be/09wC5qw4LRo)
+[![Watch the video](https://img.youtube.com/vi/09wC5qw4LRo/0.jpg)](https://youtu.be/09wC5qw4LRo)
 
     
 **Author**
@@ -163,4 +161,4 @@ This project is provided as‑is for engineering and educational use.
 
   
 
-  © 2025 Rick Ergle
+  © 2025 rergle
