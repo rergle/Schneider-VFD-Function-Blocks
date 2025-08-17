@@ -68,7 +68,8 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
 
         
 ### ATV320 Setup with SoMove (Video)
-[![Watch the video](https://img.youtube.com/vi/mkD6EqSgX54)/0.jpg)]([https://youtu.be/VIDEO_ID](https://youtu.be/mkD6EqSgX54))   
+[![Watch the video](https://img.youtube.com/vi/mkD6EqSgX54/0.jpg)](https://youtu.be/mkD6EqSgX54)
+ 
          
 ### ATV630 Setup with SoMove (Video)
 
