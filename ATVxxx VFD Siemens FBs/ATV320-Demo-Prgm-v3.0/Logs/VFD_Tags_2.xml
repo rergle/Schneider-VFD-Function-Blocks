@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="VFD_Tags_2.xml" projectName="C:\Users\rergle\Documents\repos\PLC-Function-Blocks\Siemens\S71200-Function-Blocks\Blocks-For-Testing\ATV_2W_rv2\VFD_Tags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="7:32:12 PM">
+    <Message>The version ID is missing in the XLSX file. It is assumed that this is the latest version.</Message>
+  </LogEntry>
+</LogFile>

@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="VFD_Tags.xml" projectName="C:\Users\rergle\Desktop\S71200-ATV320-Profinet\ATV320 2-Wire FB-PN\VFD_Tags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="6:33:19 PM">
+    <Message>Error found while loading file C:\Users\rergle\Desktop\S71200-ATV320-Profinet\ATV320 2-Wire FB-PN\VFD_Tags.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>
