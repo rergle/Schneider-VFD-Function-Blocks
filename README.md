@@ -1,15 +1,11 @@
 ATV Series VFDs to Siemens S7-1200 Function Blocks
-  
-  
-
-  
-    
+      
 # ATV Series VFDs to Siemens S7-1200 Function Blocks
 
-    ATVxxx / PROFINET — Control with status and fault handling 
-    This folder contains a function block library for controlling Schneider Electric ATV Series VFDs via PROFINET.
-    This block is designed for integration with the Siemens S7‑1200 PLCs and provide control, status, and
-    fault handling for the ATVxxx Series drives.
+  ATVxxx / PROFINET — Control with status and fault handling 
+  This folder contains a function block library for controlling Schneider Electric ATV Series VFDs via PROFINET.
+  This block is designed for integration with the Siemens S7‑1200 PLCs and provide control, status, and
+  fault handling for the ATVxxx Series drives.
 
     
 ## Folder Structure
@@ -72,8 +68,7 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
 
         
 ### ATV320 Setup with SoMove (Video)
-
-       - video here
+[![Watch the video](https://img.youtube.com/vi/mkD6EqSgX54)/0.jpg)]([https://youtu.be/VIDEO_ID](https://youtu.be/mkD6EqSgX54))   
          
 ### ATV630 Setup with SoMove (Video)
 
