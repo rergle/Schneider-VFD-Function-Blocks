@@ -78,11 +78,11 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
 2. Search for and select `Generic EtherNet Module`
 3. Enter the following parameters:
 
-**ATV320 or ATV340**
+**ATV320**
 
 <img width="551" height="341" alt="ATV320" src="https://github.com/user-attachments/assets/b97b5226-227f-4f88-bf31-123d93791d27" />
 
- **ATV6xx or ATV9xx**
+ **ATV6xx, ATV9xx or ATV340**
  
 <img width="550" height="342" alt="ATV630" src="https://github.com/user-attachments/assets/ede6c55a-ecd4-4582-ad40-e95ed3c52d86" />
 
