@@ -61,7 +61,7 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
 
 - SoMove Download: [https://www.se.com/us/en/work/products/explore/somove/](https://www.se.com/us/en/work/products/explore/somove/)
 - SoMove Cable for connecting with ATV Drives: [TCSMCNAM3M002P](https://www.se.com/us/en/product/TCSMCNAM3M002P/connection-cable-usb-to-rj45-tesys-t-for-connection-between-pc-and-drive/)
-- EthernetIP communication module for ATV320 & ATV340 Drives: [VW3A3616](https://www.se.com/us/en/product/VW3A3616/communication-module-modbus-tcp-and-ethernet-ip-altivar-10-or-100mbps-2-x-rj45-connectors/)
+- EthernetIP communication module for ATV320 Drives: [VW3A3616](https://www.se.com/us/en/product/VW3A3616/communication-module-modbus-tcp-and-ethernet-ip-altivar-10-or-100mbps-2-x-rj45-connectors/)
 - EthernetIP communication module for ATV630 Drives: [VW3A3720](https://www.se.com/us/en/product/VW3A3720/communication-module-ethernet-ip-modbus-tcp-10-or-100mbps-2-x-rj45-connectors/)
 
 ### ATV320 IO-Mode Setup with SoMove (Video)
@@ -76,18 +76,16 @@ Use the SoMove file to help configure your ATVxxx drive as needed.
 
 1. Right click on `Ethernet` in the Device Tree and click `New Module...`
 2. Search for and select `Generic EtherNet Module`
-3. In the `General` tab enter the following parameters:
-
-- Name: "the name of your VFD"
-- Comm Format: Data - INT
+3. Enter the following parameters:
 
 **ATV320 or ATV340**
-`<img width="551" height="341" alt="ATV320" src="https://github.com/user-attachments/assets/b97b5226-227f-4f88-bf31-123d93791d27" />`
+
+<img width="551" height="341" alt="ATV320" src="https://github.com/user-attachments/assets/b97b5226-227f-4f88-bf31-123d93791d27" />
 
  **ATV6xx or ATV9xx**
-`<img width="550" height="342" alt="ATV630" src="https://github.com/user-attachments/assets/ede6c55a-ecd4-4582-ad40-e95ed3c52d86" />`
+ 
+<img width="550" height="342" alt="ATV630" src="https://github.com/user-attachments/assets/ede6c55a-ecd4-4582-ad40-e95ed3c52d86" />
 
-- IP Adrress: `your VFD IP address`
 
 4. Click OK and add the device
 5. Right click on the Add-On Instructions folder in the device tree select `Import Add-On Instruction`
